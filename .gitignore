@@ -1,0 +1,17 @@
+# Ignore le contenu du vendor
+/vendor/*
+
+# Ignore nimporte quel dossier .git
+/.git/*
+*/.git/*
+
+# Ignore nimporte quel dossier .vscode
+/.vscode/*
+*/.vscode/*
+
+# Ignore nimporte quel dossier .idea (PHPStorm)
+/.idea/*
+*/.idea/*
+
+# Filtre sur les dossiers / fichiers '._'
+*._*
